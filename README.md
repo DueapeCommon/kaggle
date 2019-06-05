@@ -5,6 +5,8 @@ DueApe数据科学，Kaggle代码资源分享
 
 > 一起来学习数据科学吧！
 
+![](img/1559738185650.png)
+
 想要更加系统的学习Kaggle竞赛，请添加我们的微信或者访问官网。
 
 ![](https://www.dueape.com/static/img/ewm.e93e5ce.png)
